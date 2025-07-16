@@ -23,7 +23,7 @@ This project aims to modernize static internet sales reports by building interac
 
 ## Data Sources
 
-- Internet Sales data
+- Sales data
 - Product and Customer information
 - Budget data for the year 2021 (provided in Excel)
 
