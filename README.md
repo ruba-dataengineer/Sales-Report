@@ -39,4 +39,4 @@ This project aims to modernize static internet sales reports by building interac
 
 ## Outcome
 
-An interactive Power BI dashboard that enables real-time tracking of internet sales performance by customer, product, and time period — driving better decision-making across the sales team.
+An interactive Power BI dashboard that enables real-time tracking of internet sales performance by customer, product, and time period - driving better decision-making across the sales team.
