@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to modernize static internet sales reports by building interactive and insightful dashboards using **Microsoft Power BI**. The dashboards provide visibility into product sales, customer performance, and budget comparisons to help sales teams make data-driven decisions.
+This project aims to modernize static sales reports by building interactive and insightful dashboards using **Microsoft Power BI**. The dashboards provide visibility into product sales, customer performance, and budget comparisons to help sales teams make data-driven decisions.
 
 ## Client
 
